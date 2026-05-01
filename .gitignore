@@ -3,3 +3,9 @@ __pycache__/
 .ipynb_checkpoints/
 *.csv
 *.zip
+.dual-graph/
+.dual-graph-context/
+.claude/
+CLAUDE.md
+CODEX.md
+.codex/
